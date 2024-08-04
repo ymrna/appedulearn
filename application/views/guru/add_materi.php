@@ -1,14 +1,4 @@
-<!--
-@Project: Learnify
-@UAS - Pemrograman WEB II
-@Alwi Fahrudin-Yummiarna
 
-@About-Learnify :
-Web Edukasi Open Source
-Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian
-yang tersedia secara gratis. Learnify dibuat ditujukan agar para siswa dan
-guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
--->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -17,7 +7,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 
 <head>
     <meta charset="utf-8" />
-    <title>Learnify - Tambah Materi</title>
+    <title>Edulearn - Tambah Materi</title>
     <meta name="description" content="Latest updates and statistic charts">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -127,7 +117,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
     <div id="kt_header_mobile" class="kt-header-mobile  kt-header-mobile--fixed ">
         <div class="kt-header-mobile__logo">
             <a href="<?=base_url('guru')?>">
-                <img alt="Logo" src="<?=base_url('assets')?>/img/logo.png" width="90px;" />
+                <img alt="Logo" src="<?=base_url('assets')?>/img/edulearn.png" width="90px;" />
             </a>
         </div>
         <div class="kt-header-mobile__toolbar">
@@ -284,7 +274,7 @@ echo $data['user']['nama_guru'];
                                                 Tambah data materi
                                             </div>
                                             <div class="kt-notification__item-time">
-                                                Tambah Materi Learnify
+                                                Tambah Materi Edulearn
                                             </div>
                                         </div>
                                     </a>
@@ -415,11 +405,11 @@ echo $data['user']['nama_mapel'];?>" class="form-control" id="inputEmail4">
                 <!-- begin:: Footer -->
                 <div class="kt-footer kt-grid__item kt-grid kt-grid--desktop kt-grid--ver-desktop">
                     <div class="kt-footer__copyright">
-                        2024&nbsp;&copy;&nbsp;<a href="" target="_blank"
-                            class="kt-link"></a>
+                        2019&nbsp;&copy;&nbsp;<a href="https://syauqizaidan.github.io/" target="_blank"
+                            class="kt-link">Syaauqi Zaaidan & Descienfy</a>
                     </div>
                     <div class="kt-footer__menu">
-                        Made with &nbsp; <span class="" style="color: red"> &#10084;</span> &nbsp; 
+                        Made with &nbsp; <span class="" style="color: red"> &#10084;</span> &nbsp; by Syaauqi
                     </div>
                 </div>
 

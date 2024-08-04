@@ -42,7 +42,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
             <div class="d-flex flex-wrap align-items-stretch">
                 <div class="col-lg-4 col-md-6 col-12 order-lg-1 min-vh-100 order-2 bg-white">
                     <div class="p-4 m-3">
-                        <a href="<?=base_url('welcome')?>"> <img src="<?=base_url('assets/')?>/img/logo.png" alt="logo"
+                        <a href="<?=base_url('welcome')?>"> <img src="<?=base_url('assets/')?>/img/edulearn.png" alt="logo"
                                 width="150" class=" mb-5 mt-2"></a>
                         <h4 class="text-dark font-weight-normal">Selamat datang di <span
                                 class="font-weight-bold">Edulearn</span>
